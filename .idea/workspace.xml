@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Macys/src/main/java/regression/Homepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2071">
+            <state relative-caret-position="2033">
               <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -54,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Macys/src/main/java/regression/SignInClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
+            <state relative-caret-position="418">
               <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Macys/src/test/java/RegressionSuite/TestSignin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="190">
               <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Macys/src/test/java/RegressionSuite/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
+            <state relative-caret-position="969">
               <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -210,8 +210,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="28" />
-    <option name="y" value="23" />
+    <option name="x" value="24" />
+    <option name="y" value="36" />
     <option name="width" value="996" />
     <option name="height" value="563" />
   </component>
@@ -223,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +235,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -395,9 +395,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="23" width="996" height="563" extended-state="1" />
+    <frame x="24" y="36" width="996" height="563" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3259958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3322851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,7 +411,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.379717" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4009434" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32786885" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32" />
@@ -611,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Macys/src/main/java/regression/Homepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2071">
+        <state relative-caret-position="2033">
           <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -623,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Macys/src/main/java/regression/SignInClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="418">
           <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -633,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Macys/src/test/java/RegressionSuite/TestSignin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="190">
           <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -653,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Macys/src/test/java/RegressionSuite/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
+        <state relative-caret-position="969">
           <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
