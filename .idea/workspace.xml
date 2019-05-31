@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/RegressionSuite/TestHomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/Runner.Xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/Runner.Xml" afterDir="false" />
@@ -208,10 +209,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="25" />
-    <option name="width" value="1023" />
-    <option name="height" value="564" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="28" />
+    <option name="y" value="23" />
+    <option name="width" value="996" />
+    <option name="height" value="563" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -393,9 +395,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1023" height="564" extended-state="0" />
+    <frame x="28" y="23" width="996" height="563" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31702346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3259958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -409,7 +411,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37882352" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.379717" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32786885" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32" />
